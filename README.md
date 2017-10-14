@@ -68,10 +68,10 @@ Please see details in Wiki section
 
 Contributors
 ---------
-Vijay Dogra
-Ajinkya Kamble
-Matthew Tawil
-Julien Ahnou
+Vijay Dogra 
+Ajinkya Kamble 
+Matthew Tawil 
+Julien Ahnou 
 
 Copyright
 ---------
