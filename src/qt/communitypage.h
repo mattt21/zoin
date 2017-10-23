@@ -7,7 +7,6 @@
 #define COMMUNITYPAGE_H
 
 #include <QWidget>
-#include <QMainWindow>
 
 
 namespace Ui {
@@ -26,7 +25,6 @@ public:
 
 private:
     Ui::CommunityPage *ui;
-    void resizeEvent(QResizeEvent *evt);
 
 private Q_SLOTS:
     void OpenWebsite();
